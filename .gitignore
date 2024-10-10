@@ -1,0 +1,11 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+
+# Ambientes virtuais
+venv/
+ENV/
+
+# Logs e configurações
+*.log
+*.env
